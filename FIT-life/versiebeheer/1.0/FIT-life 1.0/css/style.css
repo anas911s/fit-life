@@ -1,0 +1,25 @@
+body {
+  font-family: Verdana, sans-serif;
+}
+
+
+.navbar-scroll {
+  background-color: #ffa734;
+}
+
+
+.nav1 {
+  font-size: unset;
+  height: 3.5rem;
+}
+
+
+
+a:hover {
+  background-color: #f18d0b;
+  color:rgb(31, 31, 31);
+}
+
+a {
+  color: black;
+}
